@@ -1,0 +1,14 @@
+{
+  "name": "person_directory",
+  "version": "1.0.0",
+  "description": "find person from database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lenka",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
