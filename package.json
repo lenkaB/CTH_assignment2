@@ -1,14 +1,12 @@
 {
-  "name": "person_directory",
+  "name": "love_letters",
+  "dependencies": "commander, chance, word-wrap",
   "version": "1.0.0",
-  "description": "find person from database",
-  "main": "index.js",
+  "description": "love letter random generator",
+  "main": "love_letter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "lenka",
-  "license": "ISC",
-  "dependencies": {
-    "commander": "^2.9.0"
-  }
+  "license": "ISC"
 }
